@@ -1,7 +1,7 @@
 # FlixDBFlixDB
 FlixDB compiles the list of IMDB Top Rated Movies which are available on Netflix India.
 
-Alt text
+https://github.com/gagangm/flixdb/blob/master/README.md
 
 Features:
 Displays movie title, poster and imdb rating.
